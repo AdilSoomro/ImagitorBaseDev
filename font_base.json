@@ -1,14 +1,16 @@
-[
-  {
-    "name":"Faiz Lahori Nastaleeq",
-    "preview":"http://fonts.urduweb.org/ufonts/img/faiz-lahori-nastaleeq-regular.gif",
-    "developer":"Jameel Nastaleeq",
-    "download":"http://font.urduweb.org/downloads/246-faiz-lahori-nastaleeq-regular"
-  },
-  {
-    "name":"Jameel Noori Kasheeda",
-    "preview":"http://fonts.urduweb.org/ufonts/img/jameel-noori-kasheeda-regular.gif",
-    "developer":"Jameel Nastaleeq",
-    "download":"http://font.urduweb.org/downloads/247-jameel-noori-kasheeda-regular"
-  }
-]
+{
+  "fonts": [
+    {
+      "name": "Faiz Lahori Nastaleeq",
+      "preview": "http://fonts.urduweb.org/ufonts/img/faiz-lahori-nastaleeq-regular.gif",
+      "developer": "Jameel Nastaleeq",
+      "download": "http://font.urduweb.org/downloads/246-faiz-lahori-nastaleeq-regular"
+    },
+    {
+      "name": "Jameel Noori Kasheeda",
+      "preview": "http://fonts.urduweb.org/ufonts/img/jameel-noori-kasheeda-regular.gif",
+      "developer": "Jameel Nastaleeq",
+      "download": "http://font.urduweb.org/downloads/247-jameel-noori-kasheeda-regular"
+    }
+  ]
+}
