@@ -27,8 +27,13 @@
       "developer": "Syed Irtiza Hassan Rizvi",
       "download": "http://fonts.urduweb.org/ufonts/ttf/alfars-12-elm-regular-1.ttf",
       "size": "0.64 MB"
+    },
+    {
+      "name": "AlQalam Naqsh",
+      "preview": "http://fonts.urduweb.org/ufonts/img/alqalam-naqsh-regular.gif",
+      "developer": "Syed Shakir ul Qadree",
+      "download": "http://fonts.urduweb.org/ufonts/ttf/alqalam-naqsh-regular-1.ttf",
+      "size": "0.94 MB"
     }
-    
-    
   ]
 }
