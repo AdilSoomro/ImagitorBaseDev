@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "fonts": [
     {
       "name": "Faiz Lahori Nastaleeq",
@@ -14,6 +14,20 @@
       "developer": "Jameel Nastaleeq",
       "download": "http://fonts.urduweb.org/ufonts/ttf/jameel-noori-kasheeda-regular-1.ttf",
       "size": "12 MB"
+    },
+    {
+      "name": "AA Sameer Sagar Nastaleeq",
+      "preview": "http://fonts.urduweb.org/ufonts/img/aa-sameer-sagar-nastaleeq-bold-regular.gif",
+      "developer": "AA Sameer",
+      "download": "http://fonts.urduweb.org/ufonts/ttf/aa-sameer-sagar-nastaleeq-bold-regular-1.ttf",
+      "size": "0.29 MB"
+    },
+    {
+      "name": "PT Bold Dusky",
+      "preview": "http://fonts.urduweb.org/ufonts/img/pt-bold-dusky-regular.gif",
+      "developer": "Platinum Inc.",
+      "download": "http://fonts.urduweb.org/ufonts/ttf/pt-bold-dusky-regular-1.ttf",
+      "size": "0.21 MB"
     },
     {
       "name": "AlFars 1 Arshia",
