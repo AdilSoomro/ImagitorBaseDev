@@ -2,11 +2,11 @@
   "version": 0,
   "videos": [
     {
-      "title": "How to write Urdu on Android",
-      "video_link": "https://www.youtube.com/watch?v=_caY066TxZQ",
-      "video_id": "_caY066TxZQ",
-      "duration" : "3:00",
-      "thumb": "https://img.youtube.com/vi/_caY066TxZQ/0.jpg"
+      "title": "How to make logo in Imagitor for posts",
+      "video_link": "https://www.youtube.com/watch?v=VJxnc_3sqiI",
+      "video_id": "VJxnc_3sqiI",
+      "duration" : "2:00",
+      "thumb": "https://img.youtube.com/vi/VJxnc_3sqiI/0.jpg"
     },
     {
       "title": "How to use tatweel (kashish) in Urdu",
@@ -16,11 +16,11 @@
       "thumb": "https://img.youtube.com/vi/gsURAf1l48U/0.jpg"
     },
     {
-      "title": "How to make logo in Imagitor for posts",
-      "video_link": "https://www.youtube.com/watch?v=VJxnc_3sqiI",
-      "video_id": "VJxnc_3sqiI",
-      "duration" : "2:00",
-      "thumb": "https://img.youtube.com/vi/VJxnc_3sqiI/0.jpg"
+      "title": "How to write Urdu on Android",
+      "video_link": "https://www.youtube.com/watch?v=_caY066TxZQ",
+      "video_id": "_caY066TxZQ",
+      "duration" : "3:00",
+      "thumb": "https://img.youtube.com/vi/_caY066TxZQ/0.jpg"
     }
   ]
 }
