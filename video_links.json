@@ -9,11 +9,18 @@
       "thumb": "https://img.youtube.com/vi/_caY066TxZQ/0.jpg"
     },
     {
-      "title": "Imagitor - how to use tatweel (kashish) in Urdu",
+      "title": "How to use tatweel (kashish) in Urdu",
       "video_link": "https://www.youtube.com/watch?v=gsURAf1l48U",
       "video_id": "gsURAf1l48U",
       "duration" : "2:08",
       "thumb": "https://img.youtube.com/vi/gsURAf1l48U/0.jpg"
+    },
+    {
+      "title": "How to make logo in Imagitor for posts",
+      "video_link": "https://www.youtube.com/watch?v=VJxnc_3sqiI",
+      "video_id": "VJxnc_3sqiI",
+      "duration" : "2:00",
+      "thumb": "https://img.youtube.com/vi/VJxnc_3sqiI/0.jpg"
     }
   ]
 }
