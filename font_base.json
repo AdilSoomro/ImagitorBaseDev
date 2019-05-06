@@ -1,6 +1,14 @@
 {
   "version": 0,
   "fonts": [
+    
+    {
+      "name": "Al Qalam Ramazan",
+      "preview": "https://github.com/AdilSoomro/ImagitorBaseDev/raw/master/fonts/ramazan/AlQalam_Ramazan.gif",
+      "developer": "Mj © ( Mojtaba Kia ). 2007. All Rights Reserved",
+      "download": "https://github.com/AdilSoomro/ImagitorBaseDev/raw/master/fonts/ramazan/AlQalam_Ramazan.ttf",
+      "size": "0.15 MB"
+    },
     {
       "name": "Faiz Lahori Nastaleeq",
       "preview": "http://fonts.urduweb.org/ufonts/img/faiz-lahori-nastaleeq-regular.gif",
