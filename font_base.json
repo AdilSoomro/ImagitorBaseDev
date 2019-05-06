@@ -10,6 +10,13 @@
       "size": "0.15 MB\n\nUsage: Write ABCDEF text and select this font."
     },
     {
+      "name": "PDMS Nafees Nastaleeq",
+      "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/nafees/pdms-nastaliqnafees-regular.gif",
+      "developer": "Copyright (c) 2002-2005 Pakistan Data Management Services. All rights reserved.",
+      "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/nafees/PDMS_NastaliqNafees.ttf",
+      "size": "0.14 MB"
+    },
+    {
       "name": "Faiz Lahori Nastaleeq",
       "preview": "http://fonts.urduweb.org/ufonts/img/faiz-lahori-nastaleeq-regular.gif",
       "developer": "Jameel Nastaleeq",
