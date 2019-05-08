@@ -3,11 +3,18 @@
   "fonts": [
     
     {
-      "name": "Al Qalam Ramazan",
+      "name": "Al Qalam Ramazan Styles",
       "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/ramazan/AlQalam_Ramazan.gif",
       "developer": "Mj © ( Mojtaba Kia ). 2007. All Rights Reserved",
       "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/ramazan/AlQalam_Ramazan.ttf",
       "size": "0.15 MB\n\nUsage: Write ABCDEF text and select this font."
+    },
+    {
+        "name": "Bismillah Styles",
+        "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/bismillah/bismillah.gif",
+        "developer": "Megaßoft (R) Muhammad Naveed Khan, 2008. All rights reserved.",
+        "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/bismillah/bismillah.ttf",
+        "size": "0.28 MB\n\nUsage: Write ABCDEF text and select this font."
     },
     {
       "name": "PDMS Nafees Nastaleeq",
