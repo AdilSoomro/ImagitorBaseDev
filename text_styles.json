@@ -1,0 +1,86 @@
+{
+  "version": 0,
+  "styles": [
+    {
+      "textColor": "-1024",
+      "stroke": "9.0",
+      "strokeColor": "-65536",
+      "shadowRadius": "1.8000001",
+      "shadowColor": "-59648",
+      "shadowX": "-1.0",
+      "shadowY": "-1.0"
+    },
+    {
+      "textColor": "-16755457",
+      "stroke": "0.0",
+      "strokeColor": "-65536",
+      "shadowRadius": "0.8",
+      "shadowColor": "-9737365",
+      "shadowX": "1.0",
+      "shadowY": "4.0"
+    },
+    {
+      "textColor": "-16777216",
+      "stroke": "0.0",
+      "strokeColor": "-7171438",
+      "shadowRadius": "0.8",
+      "shadowColor": "-9737365",
+      "shadowX": "4.0",
+      "shadowY": "8.0"
+    },
+    {
+      "textColor": "-16777216",
+      "stroke": "6.0",
+      "strokeColor": "-1",
+      "shadowRadius": "0.8",
+      "shadowColor": "-9737365",
+      "shadowX": "1.0",
+      "shadowY": "4.0"
+    },
+    {
+      "textColor": "0",
+      "stroke": "1.0",
+      "strokeColor": "-16777216",
+      "shadowRadius": "0.4",
+      "shadowColor": "-16777216",
+      "shadowX": "0.0",
+      "shadowY": "0.0"
+    },
+    {
+      "textColor": "-16748025",
+      "stroke": "9.0",
+      "strokeColor": "-1024",
+      "shadowRadius": "1.8000001",
+      "shadowColor": "-59648",
+      "shadowX": "-1.0",
+      "shadowY": "-1.0"
+    },
+    {
+      "textColor": "-16766977",
+      "stroke": "9.0",
+      "strokeColor": "-1",
+      "shadowRadius": "1.7",
+      "shadowColor": "-16777216",
+      "shadowX": "2.0",
+      "shadowY": "5.0"
+    },
+    {
+      "textColor": "0",
+      "stroke": "1.0",
+      "strokeColor": "-59648",
+      "shadowRadius": "0.8",
+      "shadowColor": "-59648",
+      "shadowX": "0.0",
+      "shadowY": "0.0"
+    },
+    {
+      "textColor": "-16777216",
+      "stroke": "15.0",
+      "strokeColor": "-1",
+      "shadowRadius": "0.0",
+      "shadowColor": "-59648",
+      "shadowX": "0.0",
+      "shadowY": "0.0"
+    }
+  ]
+}
