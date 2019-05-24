@@ -20,14 +20,14 @@
     },
     {
       "stroke": "5.0",
-      "strokeColor": "#725b25",
+      "strokeColor": "#FFFFFF",
       "gradient": {
         "angle": 90,
         "colors": [
-          "#816e32",
-          "#c1b054",
-          "#d7c155",
-          "#ac9f54"
+          "#d14d65",
+          "#eba73a",
+          "#fddd30",
+          "#b5e199"
         ],
         "type": 0
       },
