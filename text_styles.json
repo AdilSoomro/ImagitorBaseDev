@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "styles": [
     {
       "stroke": "9.0",
@@ -11,7 +11,7 @@
       "gradient": {
         "angle": 0,
         "colors": [
-          "#FFFFFF",
+          "#14A2C7",
           "#436ada",
           "#006ada"
         ],
