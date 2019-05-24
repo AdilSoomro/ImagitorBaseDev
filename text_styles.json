@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "styles": [
     {
       "stroke": "9.0",
@@ -19,22 +19,32 @@
       }
     },
     {
-      "stroke": "5.0",
-      "strokeColor": "#FFFFFF",
       "gradient": {
-        "angle": 90,
+        "angle": 0,
         "colors": [
-          "#d14d65",
-          "#eba73a",
-          "#fddd30",
-          "#b5e199"
+          "#13788c",
+          "#13788c",
+          "#e4cf04",
+          "#e4cf04"
         ],
         "type": 0
-      },
-      "shadowRadius": "1.7",
-      "shadowColor": "#170e0b",
-      "shadowX": "2.0",
-      "shadowY": "5.0"
+      }
+    },
+    {
+      "gradient": {
+        "angle": 0,
+        "colors": [
+          "#fe2000",
+          "#fe01fc",
+          "#0500fc",
+          "#00f9fc",
+          "#00fd00",
+          "#fdfc00",
+          "#fe5300"
+        ],
+        "type": 0
+      }
     }
+
   ]
 }
