@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "styles": [
     {
       "stroke": "9.0",
@@ -31,6 +31,12 @@
       }
     },
     {
+      "stroke": "5.0",
+      "strokeColor": "#000000",
+      "shadowRadius": "0.6",
+      "shadowColor": "#ececec",
+      "shadowX": "-1.0",
+      "shadowY": "-1.0",
       "gradient": {
         "angle": 0,
         "colors": [
@@ -47,7 +53,7 @@
     },
     {
       "gradient": {
-        "angle": 0,
+        "angle": 90,
         "colors": [
           "#7117EA",
           "#7117EA",
@@ -59,8 +65,26 @@
       }
     },
     {
+      "stroke": "4.0",
+      "strokeColor": "#000000",
       "gradient": {
-        "angle": 0,
+        "angle": 90,
+        "colors": [
+          "#58151A",
+          "#BC2909",
+          "#BA6D09",
+          "#71A8EE",
+          "#71A8EE",
+          "#3072EB",
+          "#1552C6",
+          "#0542A8"
+        ],
+        "type": 0
+      }
+    },
+    {
+      "gradient": {
+        "angle": 90,
         "colors": [
           "#58151A",
           "#BC2909",
@@ -74,7 +98,6 @@
         "type": 0
       }
     }
-
 
   ]
 }
