@@ -2,6 +2,7 @@
   "version": 5,
   "styles": [
     {
+      "name" : "blue_radial",
       "stroke": "9.0",
       "strokeColor": "-1",
       "shadowRadius": "1.8000001",
@@ -19,6 +20,9 @@
       }
     },
     {
+      "name" : "yellow_green",
+      "stroke": "3.0",
+      "strokeColor": "#000000",
       "gradient": {
         "angle": 0,
         "colors": [
@@ -31,10 +35,11 @@
       }
     },
     {
+      "name" : "rainbow",
       "stroke": "5.0",
       "strokeColor": "#000000",
-      "shadowRadius": "0.6",
-      "shadowColor": "#ececec",
+      "shadowRadius": "1.0",
+      "shadowColor": "#170e0b",
       "shadowX": "-1.0",
       "shadowY": "-1.0",
       "gradient": {
@@ -52,6 +57,7 @@
       }
     },
     {
+      "name" : "instagram",
       "gradient": {
         "angle": 90,
         "colors": [
@@ -65,6 +71,7 @@
       }
     },
     {
+      "name" : "sunrise",
       "stroke": "4.0",
       "strokeColor": "#000000",
       "gradient": {
@@ -77,23 +84,54 @@
           "#71A8EE",
           "#3072EB",
           "#1552C6",
+          "#0542A8",
+          "#0542A8",
           "#0542A8"
         ],
         "type": 0
       }
     },
     {
+      "name" : "yellowish",
+      "stroke": "4.0",
+      "strokeColor": "#000000",
       "gradient": {
         "angle": 90,
         "colors": [
-          "#58151A",
-          "#BC2909",
-          "#BA6D09",
-          "#71A8EE",
-          "#71A8EE",
-          "#3072EB",
-          "#1552C6",
-          "#0542A8"
+          "#FCFF1C",
+          "#FCFF1C",
+          "#E2C213",
+          "#E2C213",
+          "#E2C213"
+        ],
+        "type": 0
+      }
+    },{
+      "name" : "silver",
+      "stroke": "4.0",
+      "strokeColor": "#000000",
+      "gradient": {
+        "angle": 90,
+        "colors": [
+          "#E3E3E3",
+          "#E3E3E3",
+          "#5D6874",
+          "#5D6874",
+          "#5D6874"
+        ],
+        "type": 0
+      }
+    },{
+      "name" : "greenish",
+      "stroke": "4.0",
+      "strokeColor": "#000000",
+      "gradient": {
+        "angle": 90,
+        "colors": [
+          "#1AB3A5",
+          "#86C446",
+          "#FCCE05",
+          "#FCCE05"
         ],
         "type": 0
       }
