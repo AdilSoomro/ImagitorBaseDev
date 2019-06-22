@@ -29,6 +29,82 @@
       "desc": "g"
     },
     {
+      "code": "h",
+      "desc": "h"
+    },
+    {
+      "code": "i",
+      "desc": "i"
+    },
+    {
+      "code": "j",
+      "desc": "j"
+    },
+    {
+      "code": "k",
+      "desc": "k"
+    },
+    {
+      "code": "l",
+      "desc": "l"
+    },
+    {
+      "code": "m",
+      "desc": "m"
+    },
+    {
+      "code": "n",
+      "desc": "n"
+    },
+    {
+      "code": "o",
+      "desc": "o"
+    },
+    {
+      "code": "p",
+      "desc": "p"
+    },
+    {
+      "code": "q",
+      "desc": "q"
+    },
+    {
+      "code": "r",
+      "desc": "r"
+    },
+    {
+      "code": "s",
+      "desc": "s"
+    },
+    {
+      "code": "t",
+      "desc": "t"
+    },
+    {
+      "code": "u",
+      "desc": "u"
+    },
+    {
+      "code": "v",
+      "desc": "v"
+    },
+    {
+      "code": "w",
+      "desc": "w"
+    },
+    {
+      "code": "x",
+      "desc": "x"
+    },
+    {
+      "code": "y",
+      "desc": "y"
+    },
+    {
+      "code": "z",
+      "desc": "z"
+    },
+    {
       "code": "A",
       "desc": "A"
     },
@@ -173,22 +249,6 @@
       "desc": "0"
     },
     {
-      "code": "-",
-      "desc": "-"
-    },
-    {
-      "code": "=",
-      "desc": "="
-    },
-    {
-      "code": "[",
-      "desc": "["
-    },
-    {
-      "code": "]",
-      "desc": "]"
-    },
-    {
       "code": ";",
       "desc": ";"
     },
@@ -221,14 +281,6 @@
       "desc": "#"
     },
     {
-      "code": "$",
-      "desc": "$"
-    },
-    {
-      "code": "%",
-      "desc": "%"
-    },
-    {
       "code": "^",
       "desc": "^"
     },
@@ -237,24 +289,16 @@
       "desc": "&"
     },
     {
-      "code": "*",
-      "desc": "*"
-    },
-    {
-      "code": "(",
-      "desc": "("
-    },
-    {
-      "code": ")",
-      "desc": ")"
-    },
-    {
       "code": "_",
       "desc": "_"
     },
     {
-      "code": "+",
-      "desc": "+"
+      "code": "{",
+      "desc": "{"
+    },
+    {
+      "code": "|",
+      "desc": "|"
     },
     {
       "code": ":",
@@ -263,14 +307,6 @@
     {
       "code": "?",
       "desc": "?"
-    },
-    {
-      "code": ">",
-      "desc": ">"
-    },
-    {
-      "code": "<",
-      "desc": "<"
     }
   ]
 }

@@ -1,13 +1,12 @@
 {
   "version": 3,
   "fonts": [
-    
     {
-      "name": "Al Qalam Ramazan",
-      "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/ramazan/AlQalam_Ramazan.gif",
-      "developer": "Mj © ( Mojtaba Kia ). 2007. All Rights Reserved",
-      "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/ramazan/AlQalam_Ramazan.ttf",
-      "size": "0.15 MB\n\nUsage: Write ABCDEF text and select this font."
+      "name": "Jameel Nori Nastaleeq V3",
+      "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/jameel/JameelNooriNastaleeq3_final.gif",
+      "developer": "Jameel Nastaleeq Team",
+      "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/jameel/JameelNooriNastaleeq3_final.ttf",
+      "size": "30.5 MB"
     },
     {
       "name": "PDMS Nafees Nastaleeq",
