@@ -121,7 +121,7 @@
       "stroke": "4.0",
       "strokeColor": "#000000",
       "shadowRadius": "1.0",
-      "shadowColor": "#170e0b",
+      "shadowColor": "#DDDDDD",
       "shadowX": "-1.0",
       "shadowY": "-1.0",
       "gradient": {
