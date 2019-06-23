@@ -117,16 +117,17 @@
         "type": 0
       }
     },{
-      "name" : "silver",
-      "stroke": "4.0",
-      "strokeColor": "#000000",
+      "name" : "pink_orangish",
+      "stroke": "0.5",
+      "strokeColor": "#FF632B",
       "gradient": {
         "angle": 90,
         "colors": [
-          "#5D6874",
-          "#5D6874",
-          "#5D6874",
-          "#E3E3E3"
+          "#FE0575",
+          "#FE0575",
+
+          "#FF632B",
+          "#FF632B"
 
         ],
         "type": 0
