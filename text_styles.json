@@ -20,6 +20,16 @@
       }
     },
     {
+      "name" : "reddish",
+      "stroke": "9.0",
+      "strokeColor": "#822039",
+      "shadowRadius": "2.0",
+      "shadowColor": "#C53850",
+      "shadowX": "0.0",
+      "shadowY": "0.0",
+      "textColor": "#FFFFFF"
+    },
+    {
       "name" : "yellow_green",
       "stroke": "3.0",
       "strokeColor": "#000000",
