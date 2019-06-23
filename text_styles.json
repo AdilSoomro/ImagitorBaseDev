@@ -118,14 +118,17 @@
       }
     },{
       "name" : "pink_orangish",
-      "stroke": "0.5",
-      "strokeColor": "#FF632B",
+      "stroke": "4.0",
+      "strokeColor": "#000000",
+      "shadowRadius": "1.0",
+      "shadowColor": "#170e0b",
+      "shadowX": "-1.0",
+      "shadowY": "-1.0",
       "gradient": {
         "angle": 90,
         "colors": [
           "#FE0575",
           "#FE0575",
-
           "#FF632B",
           "#FF632B"
 
