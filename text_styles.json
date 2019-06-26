@@ -45,6 +45,25 @@
       }
     },
     {
+      "name" : "purple_blue",
+      "stroke": "5.0",
+      "strokeColor": "#4187AC",
+      "shadowRadius": "0.1",
+      "shadowColor": "#170e0b",
+      "shadowX": "-2.0",
+      "shadowY": "-2.0",
+      "gradient": {
+        "angle": 90,
+        "colors": [
+          "#0DB3CD",
+          "#0DB3CD",
+          "#7023E6",
+          "#7023E6"
+        ],
+        "type": 0
+      }
+    },
+    {
       "name" : "rainbow",
       "stroke": "5.0",
       "strokeColor": "#000000",
