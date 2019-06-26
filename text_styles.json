@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "styles": [
     {
       "name" : "blue_radial",
@@ -46,7 +46,7 @@
     },
     {
       "name" : "purple_blue",
-      "stroke": "5.0",
+      "stroke": "3.0",
       "strokeColor": "#000000",
       "shadowRadius": "0.1",
       "shadowColor": "#170e0b",
