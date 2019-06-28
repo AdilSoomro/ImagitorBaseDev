@@ -1,6 +1,20 @@
 {
-  "version": 3,
+  "version": 4,
   "fonts": [
+    {
+      "name": "Alqalam Alvi Nastaleeq",
+      "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/alvi_nastaleeq/alqalam_alvi_nastaleeq.gif",
+      "developer": "Copyright Amjad Hussain Alvi, Pakistan",
+      "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/alvi_nastaleeq/alqalam_alvi_nastaleeq.ttf",
+      "size": "9.6 MB"
+    },
+    {
+      "name": "Alqalam Taj Nastaleeq",
+      "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/taj_nastaleeq/alqalam_taj.gif",
+      "developer": "Syed Shakir ul Qadree : Copyright 2012, AlQalam",
+      "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/taj_nastaleeq/alqalam_taj.ttf",
+      "size": "15.8 MB"
+    },
     {
       "name": "Jameel Nori Nastaleeq V3",
       "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/jameel/JameelNooriNastaleeq3_final.gif",
