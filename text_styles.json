@@ -4,7 +4,7 @@
     {
       "name" : "blue_radial",
       "stroke": "9.0",
-      "strokeColor": "-1",
+      "strokeColor": "#FFFFFF",
       "shadowRadius": "1.8000001",
       "shadowColor": "#170e0b",
       "shadowX": "-1.0",
