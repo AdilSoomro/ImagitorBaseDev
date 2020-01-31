@@ -84,6 +84,13 @@
       "developer": "Muhammad Ishtiaq Ali Attari",
       "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/alqalam_shakir/alqalam-shakir-regular-1.ttf",
       "size": "0.71 MB"
+    },
+    {
+      "name": "XB Sols",
+      "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/xb_sols/xb-sols-regular.gif",
+      "developer": "Copyright (c) Irmug.org, 2007",
+      "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/xb_sols/xb-sols-regular.ttf",
+      "size": "1.3 MB"
     }
   ]
 }
