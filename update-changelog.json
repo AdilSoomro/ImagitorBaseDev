@@ -1,0 +1,14 @@
+{
+  "latestVersion": "1.5.5 Azad",
+  "latestVersionCode": "46",
+  "url": "https://play.google.com/store/apps/details?id=com.booleanbites.imagitor",
+  "releaseNotes": [
+    "font_version:4",
+    "video_links_version:0",
+    "shape_list_version:4",
+    "text_styles_version:7"
+  ],
+  "sticker_chips": "islamic,social,divider,corner,banner,badge,frames,ornament,decorative,laurels,motif",
+  "photo_chips": "mood,background,phenomenon,gradient,pattern,atmospheric,paper,wallpaper,texture,flower",
+  "template_chips": "recent,post,insta,poetry,quotes,column,flyer,ads,youtube,facebook"
+}
