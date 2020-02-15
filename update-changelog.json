@@ -12,9 +12,10 @@
   "template_chips": "recent,post,insta,poetry,quotes,column,flyer,ads,youtube,facebook",
   "announcements": {
     "id": 1,
-    "title" : "Next Version is exciting",
-    "description" : "New features are coming to next update.\n- Guidelines for layout.\n- Layer list order, hide, lock.\n- Make your own gradient color.\n- Save more projects after watching ads.\n-Rounded background, with gradient.",
+    "title" : "What is new!",
+    "description" : "Many features are here:\n- Guidelines for layout.\n- Layer list order, hide, lock.\n- Make your own gradient color.\n- Save more projects after watching ads.\n-Rounded background, with gradient.",
     "image" : "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/stickers/sticker.png",
-    "url": "https://play.google.com/store/apps/details?id=com.booleanbites.imagitor"
+    "url": "https://www.instagram.com/p/B8SfHn5AEpz",
+    "btn_text" : "View"
   }
 }
