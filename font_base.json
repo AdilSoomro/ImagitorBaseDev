@@ -2,91 +2,78 @@
   "version": 4,
   "fonts": [
     {
-      "name": "Alqalam Alvi Nastaleeq",
+      "name": "القلم علوی نستعلیق",
       "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/alvi_nastaleeq/alqalam_alvi_nastaleeq.gif",
       "developer": "Copyright Amjad Hussain Alvi, Pakistan",
       "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/alvi_nastaleeq/alqalam_alvi_nastaleeq.ttf",
       "size": "9.6 MB"
     },
     {
-      "name": "Alqalam Taj Nastaleeq",
+      "name": "القلم تاج نستعلیق",
       "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/taj_nastaleeq/alqalam_taj.gif",
       "developer": "Syed Shakir ul Qadree : Copyright 2012, AlQalam",
       "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/taj_nastaleeq/alqalam_taj.ttf",
       "size": "15.8 MB"
     },
     {
-      "name": "Jameel Nori Nastaleeq V3",
+      "name": "V3 جمیل نوری نستعلیق",
       "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/jameel/JameelNooriNastaleeq3_final.gif",
       "developer": "Jameel Nastaleeq Team",
       "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/jameel/JameelNooriNastaleeq3_final.ttf",
       "size": "30.5 MB"
     },
     {
-      "name": "PDMS Nafees Nastaleeq",
+      "name": "PDMS نفیس نستعلیق",
       "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/nafees/pdms-nastaliqnafees-regular.jpg",
       "developer": "Copyright (c) 2002-2005 Pakistan Data Management Services. All rights reserved.",
       "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/nafees/PDMS_NastaliqNafees.ttf",
       "size": "0.14 MB"
     },
     {
-      "name": "Faiz Lahori Nastaleeq",
+      "name": "فیض لاہوری نستعلیق",
       "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/faiz/faiz-lahori-nastaleeq-regular.jpg",
       "developer": "Jameel Nastaleeq",
       "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/faiz/faiz-lahori-nastaleeq-regular-1.ttf",
       "size": "39 MB"
     },
     {
-      "name": "Jameel Noori Kasheeda",
+      "name": "جمیل نوری کشیدہ",
       "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/jameel_kasheeda/jameel-noori-kasheeda-regular.jpg",
       "developer": "Jameel Nastaleeq",
       "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/jameel_kasheeda/jameel-noori-kasheeda-regular-1.ttf",
       "size": "12 MB"
     },
     {
-      "name": "AA Sameer Sagar Nastaleeq",
+      "name": "سمیر ساگر نستعلیق",
       "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/sameer_sagar/aa-sameer-sagar-nastaleeq-bold-regular.jpg",
       "developer": "AA Sameer",
       "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/sameer_sagar/aa-sameer-sagar-nastaleeq-bold-regular-1.ttf",
       "size": "0.29 MB"
     },
     {
-      "name": "PT Bold Dusky",
+      "name": "بولڈ ڈسکی پی ٹی",
       "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/pt_bold_dusky/pt-bold-dusky-regular.jpg",
       "developer": "Platinum Inc.",
       "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/pt_bold_dusky/pt-bold-dusky-regular-1.ttf",
       "size": "0.21 MB"
     },
     {
-      "name": "AlFars 1 Arshia",
-      "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/alfars_arshia/alfars-1-arshia-regular.jpg",
-      "developer": "Syed Irtiza Hassan Rizvi",
-      "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/alfars_arshia/alfars-1-arshia-regular-1.ttf",
-      "size": "0.7 MB"
-    },
-    {
-      "name": "AlFars 12 Elm",
+      "name": "12 الفارس علم",
       "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/alfars_elm/alfars-12-elm-regular.jpg",
       "developer": "Syed Irtiza Hassan Rizvi",
       "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/alfars_elm/alfars-12-elm-regular-1.ttf",
       "size": "0.64 MB"
     },
     {
-      "name": "AlQalam Naqsh",
-      "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/alqalam_naqsh/alqalam-naqsh-regular.jpg",
-      "developer": "Syed Shakir ul Qadree",
-      "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/alqalam_naqsh/alqalam-naqsh-regular-1.ttf",
-      "size": "0.94 MB"
-    },
-    {
-      "name": "AlQalam Shakir",
+      "name": "القلم شاکر",
+
       "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/alqalam_shakir/alqalam-shakir-regular.jpg",
       "developer": "Muhammad Ishtiaq Ali Attari",
       "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/alqalam_shakir/alqalam-shakir-regular-1.ttf",
       "size": "0.71 MB"
     },
     {
-      "name": "XB Sols",
+      "name": "ایکس بی سولز",
       "preview": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/xb_sols/xb-sols-regular.gif",
       "developer": "Copyright (c) Irmug.org, 2007",
       "download": "https://github.com/AdilSoomro/ImagitorBase/raw/master/fonts/xb_sols/xb-sols-regular.ttf",
