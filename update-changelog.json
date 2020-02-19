@@ -9,12 +9,12 @@
   "text_styles_version": "7",
   "sticker_chips": "islamic,social,divider,corner,banner,badge,frames,ornament,decorative,laurels,motif",
   "photo_chips": "mood,background,phenomenon,gradient,pattern,atmospheric,paper,wallpaper,texture,flower",
-  "template_chips": "recent,post,insta,poetry,quotes,column,flyer,ads,youtube,facebook",
+  "template_chips": "recent,post,insta,poetry,quote,column,flyer,ad,youtube,facebook",
   "announcements": {
     "id": 1,
     "title" : "What is new!",
-    "description" : "Many features are here:\n- Guidelines for layout.\n- Layer list order, hide, lock.\n- Make your own gradient color.\n- Save more projects after watching ads.\n-Rounded background, with gradient.",
-    "image" : "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/stickers/sticker.png",
+    "description" : "Many features are here:\n- Online templates just for you.\n- Guidelines for perfect object placement.\n- Layer list, order, hide, lock your objects.\n- Gradient presets for better choices.\n- Make your own gradient color.\n- Round text background, with gradient.\n- Font favorite list.\n- Image, Stickers cropping and masking.",
+    "image" : "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/stickers/love/love_16.png",
     "url": "https://www.instagram.com/p/B8SfHn5AEpz",
     "btn_text" : "View"
   }
