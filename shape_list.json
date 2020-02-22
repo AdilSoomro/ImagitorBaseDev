@@ -50,7 +50,7 @@
       "name" : "Islam 2",
       "font_file_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_2/shia.ttf",
       "character_map_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_2/shia.json",
-      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_1/shia.gif",
+      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_2/shia.gif",
       "font_file": "shia.ttf",
       "character_map": "shia.json",
       "type": "free"
