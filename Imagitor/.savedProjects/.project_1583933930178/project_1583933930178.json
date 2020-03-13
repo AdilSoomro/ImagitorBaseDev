@@ -234,7 +234,7 @@
       "shadowX": "2.0",
       "shadowY": "5.0",
       "lineSpacing": "1.0",
-      "textEmboss": true,
+      "textEmboss": false,
       "gradient": {
         "angle": 90,
         "colors": [
