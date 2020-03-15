@@ -57,6 +57,14 @@
       "lang": "ur"
     },
     {
+      "name": "سمیر اسماک",
+      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/sameer_asmaak/sameer_asmaak.gif",
+      "developer": "AA Sameer Asmaak",
+      "download": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/sameer_asmaak/sameer_asmaak.ttf",
+      "size": "103 KB",
+      "lang": "ur"
+    },
+    {
       "name": "لالہ زار",
       "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/lalezar/Lalezar-Regular.gif",
       "developer": "Borna Izadpanah",
@@ -104,13 +112,52 @@
       "size": "124 KB",
       "lang": "ur"
     },
-
     {
-      "name": "اسلم",
-      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/aslam/aslam.gif",
+      "name": "القلم اشتیاق",
+      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/alqalam_ishtiaq/alqalam_ishtiaq.gif",
       "developer": "Copyright Unspecified",
-      "download": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/aslam/aslam.ttf",
-      "size": "128 KB",
+      "download": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/alqalam_ishtiaq/alqalam_ishtiaq.ttf",
+      "size": "75 KB",
+      "lang": "ur"
+    },
+    {
+      "name": "القلم کمان",
+      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/alqalam_kaman/alqalam_kaman.gif",
+      "developer": "Copyright Unspecified",
+      "download": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/alqalam_kaman/alqalam_kaman.ttf",
+      "size": "117 KB",
+      "lang": "ur"
+    },
+    {
+      "name": "القلم شکستہ",
+      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/alqalam_shekastah/alqalam_shekastah.gif",
+      "developer": "Copyright Unspecified",
+      "download": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/alqalam_shekastah/alqalam_shekastah.ttf",
+      "size": "294 KB",
+      "lang": "ur"
+    },
+    {
+      "name": "القلم شکستہ",
+      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/alqalam_shekastah/alqalam_shekastah.gif",
+      "developer": "Copyright Unspecified",
+      "download": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/alqalam_shekastah/alqalam_shekastah.ttf",
+      "size": "294 KB",
+      "lang": "ur"
+    },
+    {
+      "name": "دیوانی منقش",
+      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/diwani_bent/diwani_bent.gif",
+      "developer": "Designed for Microsoft Corp. by Platinum Inc.",
+      "download": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/diwani_bent/diwani_bent.ttf",
+      "size": "199 KB",
+      "lang": "ur"
+    },
+    {
+      "name": "جاوید",
+      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/javed/javed.gif",
+      "developer": "Copyright Unspecified",
+      "download": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/javed/javed.ttf",
+      "size": "118 KB",
       "lang": "ur"
     },
     {
