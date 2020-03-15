@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.6 Azad",
-  "latestVersionCode": "56",
+  "latestVersion": "1.6.2 Azad",
+  "latestVersionCode": "58",
   "url": "https://play.google.com/store/apps/details?id\u003dcom.booleanbites.imagitor",
   "releaseNotes": "1.5.5\n- Add online photos to page background.\n- Add stickers from online collection.\n- Change color of your stickers.\n- Search bg and photos in Pixabay\u0027s huge collection.\n\n1.5.3\n- Browse photo gallery with album and folder options.\n- Remove watermark after watching a reward ad.\n- Lock and unlock layers to stop resize and move.",
   "font_version": "6",
@@ -10,7 +10,7 @@
   "sticker_chips": "islamic,social,divider,corner,banner,badge,frames,ornament,decorative,laurels,motif",
   "photo_chips": "mood,background,phenomenon,gradient,pattern,atmospheric,paper,wallpaper,texture,flower",
   "template_chips": "recent,insta,poetry,quote,flyer,ad,youtube,facebook",
-  "project_update_time": 1584077680238,
+  "project_update_time": 1584178116821,
   "announcements": {
     "id": 1,
     "title": "What is new!",
@@ -21,3 +21,4 @@
   },
   "latest_tutorial_id": 7
 }
+
