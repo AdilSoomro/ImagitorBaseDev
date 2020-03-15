@@ -1,6 +1,7 @@
 {
-  "version": 6,
+  "version": 7,
   "shapes": [
+
     {
       "name" : "Lovely",
       "font_file_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/kg_frames/kg_frames.ttf",
@@ -35,6 +36,24 @@
       "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/elharrak_frame/elharrak_frame.gif",
       "font_file": "elharrak_frame.otf",
       "character_map": "elharrak_frame.json",
+      "type": "free"
+    },
+    {
+      "name" : "Frames 2",
+      "font_file_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_frames/islamic_symbols.ttf",
+      "character_map_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_frames/islamic_symbols.json",
+      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_frames/islamic_symbols.gif",
+      "font_file": "islamic_symbols.ttf",
+      "character_map": "islamic_symbols.json",
+      "type": "free"
+    },
+    {
+      "name" : "Beshmillah",
+      "font_file_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/besmellah_1/besmellah_1.ttf",
+      "character_map_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/besmellah_1/besmellah_1.json",
+      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/besmellah_1/besmellah_1.gif",
+      "font_file": "besmellah_1.ttf",
+      "character_map": "besmellah_1.json",
       "type": "free"
     },
     {
