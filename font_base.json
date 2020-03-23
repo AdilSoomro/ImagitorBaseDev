@@ -1,5 +1,6 @@
 {
   "version": 6,
+  "langs" : ["Urdu", "Pashto"],
   "fonts": [
     {
       "name": "القلم علوی نستعلیق",
