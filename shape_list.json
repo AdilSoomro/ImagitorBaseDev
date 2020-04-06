@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "shapes": [
 
     {
@@ -9,6 +9,15 @@
       "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/kg_frames/kg_frames.gif",
       "font_file": "kg_frames.ttf",
       "character_map": "kg_frames.json",
+      "type": "free"
+    },
+    {
+      "name" : "Gul",
+      "font_file_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/gul_o_bota/gul_o_bota.ttf",
+      "character_map_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/gul_o_bota/gul_o_bota.json",
+      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/gul_o_bota/gul_o_bota.gif",
+      "font_file": "gul_o_bota.ttf",
+      "character_map": "gul_o_bota.json",
       "type": "free"
     },
     {
