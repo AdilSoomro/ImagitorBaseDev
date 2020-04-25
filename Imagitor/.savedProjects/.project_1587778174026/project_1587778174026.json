@@ -97,7 +97,7 @@
       "textItalic": false,
       "textUnderline": false,
       "textEmboss": false,
-      "textTexturePath": ".images\/1587597714215.imagitorImage",
+
       "textTextureScale": 0.009999999776482582
     },
     {
@@ -144,7 +144,7 @@
       "textItalic": false,
       "textUnderline": false,
       "textEmboss": false,
-      "textTexturePath": ".images\/1587597760432.imagitorImage",
+
       "textTextureScale": 0.009999999776482582
     },
     {
@@ -191,7 +191,7 @@
       "textItalic": false,
       "textUnderline": false,
       "textEmboss": false,
-      "textTexturePath": ".images\/1587597821162.imagitorImage",
+
       "textTextureScale": 0.009999999776482582
     },
     {
@@ -861,7 +861,7 @@
         "grWidth": 0,
         "grHeight": 0
       },
-      "textTexturePath": ".images\/1587777985894.imagitorImage",
+
       "textTextureScale": 0.009999999776482582
     },
     {
@@ -918,7 +918,7 @@
         "grWidth": 0,
         "grHeight": 0
       },
-      "textTexturePath": ".images\/1587777994833.imagitorImage",
+
       "textTextureScale": 0.009999999776482582
     },
     {
@@ -975,7 +975,7 @@
         "grWidth": 0,
         "grHeight": 0
       },
-      "textTexturePath": ".images\/1587778001655.imagitorImage",
+
       "textTextureScale": 0.009999999776482582
     },
     {
@@ -1032,7 +1032,6 @@
         "grWidth": 0,
         "grHeight": 0
       },
-      "textTexturePath": ".images\/1587778010798.imagitorImage",
       "textTextureScale": 0.009999999776482582
     }
   ],
