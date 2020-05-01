@@ -11,7 +11,7 @@
   "photo_chips": "mood,background,phenomenon,gradient,pattern,atmospheric,paper,wallpaper,texture,flower",
   "texture_chips": "texture,metal texture,water texture,wall texture,gradient texture,paper texture,silver texture,gold texture",
   "template_chips": "recent,insta,poetry,quote,flyer,ad,youtube,facebook",
-  "project_update_time": 1587599633911,
+  "project_update_time": 1588167847118,
   "announcements": {
     "id": 1,
     "title": "What is new!",
@@ -22,3 +22,4 @@
   },
   "latest_tutorial_id": 8
 }
+
