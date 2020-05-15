@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "langs" : ["Urdu", "Pashto"],
   "fonts": [
     {
@@ -176,6 +176,14 @@
       "developer": "Abdullah Aref, Khaled Hosny, Hermann Zapf\nOpen Font License.\nImproved By: Nazim Raza Misbahi",
       "download": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/urdu/aref_ruqa/aref_ruqa_urdu.otf",
       "size": "123 KB",
+      "lang": "Urdu"
+    },
+    {
+      "name": "اسیر",
+      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/urdu/aseer/aseer_unicode.png",
+      "developer": "Axis SoftMedia Pvt. Ltd., Mumbai, India, 2008. All Rights Reserved",
+      "download": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/fonts/urdu/aseer/aseer_unicode.ttf",
+      "size": "125 KB",
       "lang": "Urdu"
     },
     {
