@@ -1,15 +1,7 @@
 {
   "version": 13,
   "shapes": [
-    {
-      "name": "Islam 3",
-      "font_file_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_3/font_islamic.ttf",
-      "character_map_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_3/font_islamic.json",
-      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_3/font_islamic.jpg",
-      "font_file": "font_islamic.ttf",
-      "character_map": "font_islamic.json",
-      "type": "free"
-    },
+    
     {
       "name": "Corona Virus",
       "font_file_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/coronavirus/coronavirus.ttf",
