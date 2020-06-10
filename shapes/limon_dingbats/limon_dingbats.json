@@ -193,28 +193,12 @@
       "desc": "V"
     },
     {
-      "code": "W",
-      "desc": "W"
-    },
-    {
-      "code": "X",
-      "desc": "X"
-    },
-    {
-      "code": "Y",
-      "desc": "Y"
-    },
-    {
       "code": "Z",
       "desc": "Z"
     },
     {
       "code": "1",
       "desc": "1"
-    },
-    {
-      "code": "2",
-      "desc": "2"
     },
     {
       "code": "3",
@@ -226,11 +210,7 @@
     },
     {
       "code": "5",
-      "desc": "5"
-    },
-    {
-      "code": "6",
-      "desc": "6"
+      "desc": "heart"
     },
     {
       "code": "7",
@@ -242,19 +222,7 @@
     },
     {
       "code": "9",
-      "desc": "9"
-    },
-    {
-      "code": "0",
-      "desc": "0"
-    },
-    {
-      "code": "-",
-      "desc": "-"
-    },
-    {
-      "code": "=",
-      "desc": "="
+      "desc": "two leaves"
     }
   ]
 }
