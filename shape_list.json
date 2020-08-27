@@ -1,7 +1,24 @@
 {
-  "version": 14,
+  "version": 15,
   "shapes": [
-
+    {
+      "name": "Islam 2",
+      "font_file_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_2/shia.ttf",
+      "character_map_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_2/shia.json",
+      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_2/shia.gif",
+      "font_file": "shia.ttf",
+      "character_map": "shia.json",
+      "type": "free"
+    },
+    {
+      "name": "Islam 1",
+      "font_file_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_1/islam_cal.otf",
+      "character_map_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_1/islam_cal.json",
+      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_1/islam_cal.gif",
+      "font_file": "islam_cal.otf",
+      "character_map": "islam_cal.json",
+      "type": "free"
+    },
     {
       "name": "Corona Virus",
       "font_file_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/coronavirus/coronavirus.ttf",
@@ -56,15 +73,7 @@
       "character_map": "AlQalam_Ramazan.json",
       "type": "free"
     },
-    {
-      "name": "Islam 1",
-      "font_file_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_1/islam_cal.otf",
-      "character_map_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_1/islam_cal.json",
-      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_1/islam_cal.gif",
-      "font_file": "islam_cal.otf",
-      "character_map": "islam_cal.json",
-      "type": "free"
-    },
+
     {
       "name": "Beshmillah",
       "font_file_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/besmellah_1/besmellah_1.ttf",
@@ -128,15 +137,7 @@
       "character_map": "islamic_symbols.json",
       "type": "free"
     },
-    {
-      "name": "Islam 2",
-      "font_file_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_2/shia.ttf",
-      "character_map_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_2/shia.json",
-      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/islam_2/shia.gif",
-      "font_file": "shia.ttf",
-      "character_map": "shia.json",
-      "type": "free"
-    },
+
     {
       "name": "Symbols 2",
       "font_file_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/shapes/font_awesome/font_awesome_solid.otf",
