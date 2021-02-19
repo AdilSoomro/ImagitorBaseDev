@@ -1,1 +1,24 @@
-{"latestVersion":"1.7.9 Azad","latestVersionCode":"98","url":"https://play.google.com/store/apps/details?id\u003dcom.booleanbites.imagitor","releaseNotes":"1.5.5\n- Add online photos to page background.\n- Add stickers from online collection.\n- Change color of your stickers.\n- Search bg and photos in Pixabay\u0027s huge collection.\n\n1.5.3\n- Browse photo gallery with album and folder options.\n- Remove watermark after watching a reward ad.\n- Lock and unlock layers to stop resize and move.","font_version":"8","video_links_version":"0","shape_list_version":"15","text_styles_version":"15","sticker_chips":"islamic,social,divider,corner,banner,badge,frames,ornament,decorative,laurels,motif","photo_chips":"mood,background,phenomenon,gradient,pattern,atmospheric,paper,wallpaper,texture,flower","texture_chips":"texture,metal texture,water texture,wall texture,gradient texture,paper texture,silver texture,gold texture","template_chips":"recent,youtube,logo,islam,insta,poetry,quote,facebook,flyer","project_update_time":1613736466078,"announcements":{"id":4,"title":"سادا پے! فری ڈیبٹ کارڈ","description":"پرومو کوڈ: 136C0 سے فری ڈیبٹ کارڈ حاصل کریں۔ ","image":"https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/thumb/sadapay.jpeg","url":"https://invite.sadapay.pk/g0v9jhn3Xdb","btn_text":"Join"},"latest_tutorial_id":16}
+{
+  "latestVersion": "1.7.9 Azad",
+  "latestVersionCode": "98",
+  "url": "https://play.google.com/store/apps/details?id\u003dcom.booleanbites.imagitor",
+  "releaseNotes": "1.5.5\n- Add online photos to page background.\n- Add stickers from online collection.\n- Change color of your stickers.\n- Search bg and photos in Pixabay\u0027s huge collection.\n\n1.5.3\n- Browse photo gallery with album and folder options.\n- Remove watermark after watching a reward ad.\n- Lock and unlock layers to stop resize and move.",
+  "font_version": "8",
+  "video_links_version": "0",
+  "shape_list_version": "15",
+  "text_styles_version": "15",
+  "sticker_chips": "islamic,social,divider,corner,banner,badge,frames,ornament,decorative,laurels,motif",
+  "photo_chips": "mood,background,phenomenon,gradient,pattern,atmospheric,paper,wallpaper,texture,flower",
+  "texture_chips": "texture,metal texture,water texture,wall texture,gradient texture,paper texture,silver texture,gold texture",
+  "template_chips": "recent,youtube,logo,islam,insta,poetry,quote,facebook,flyer",
+  "project_update_time": 1613736466078,
+  "announcements": {
+    "id": 4,
+    "title": "پوسٹ بنانے کا طریقہ",
+    "description": "پوسٹ بنانے کی ویڈیو دیکھیں",
+    "image": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/thumb/post.png",
+    "url": "https://www.youtube.com/watch?v=TUpbYbShJ0U",
+    "btn_text": "Watch"
+  },
+  "latest_tutorial_id": 17
+}
