@@ -1,1 +1,24 @@
-{"latestVersion":"1.8.3_3 Azad","latestVersionCode":"109","url":"https://play.google.com/store/apps/details?id\u003dcom.booleanbites.imagitor","releaseNotes":"1.8.3_3\n- See play store.\n- For details","font_version":"8","video_links_version":"0","shape_list_version":"15","text_styles_version":"15","sticker_chips":"islamic,social,divider,corner,banner,badge,frames,ornament,decorative,laurels,motif","photo_chips":"mood,background,phenomenon,gradient,pattern,atmospheric,paper,wallpaper,texture,flower","texture_chips":"texture,metal texture,water texture,wall texture,gradient texture,paper texture,silver texture,gold texture","template_chips":"recent,youtube,logo,flyer,islam,instagram,poetry,facebook,quote","project_update_time":1613826924625,"announcements":{"id":4,"title":"پوسٹ بنانے کا طریقہ","description":"پوسٹ بنانے کی ویڈیو دیکھیں","image":"https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/thumb/post.jpg","url":"https://www.youtube.com/watch?v\u003dTUpbYbShJ0U","btn_text":"Watch"},"latest_tutorial_id":17}
+{
+  "latestVersion": "1.8.3_3 Azad",
+  "latestVersionCode": "109",
+  "url": "https://play.google.com/store/apps/details?id\u003dcom.booleanbites.imagitor",
+  "releaseNotes": "1.8.3_3\n- See play store.\n- For details",
+  "font_version": "8",
+  "video_links_version": "0",
+  "shape_list_version": "15",
+  "text_styles_version": "15",
+  "sticker_chips": "islamic,social,divider,corner,banner,badge,frames,ornament,decorative,laurels,motif",
+  "photo_chips": "mood,background,phenomenon,gradient,pattern,atmospheric,paper,wallpaper,texture,flower",
+  "texture_chips": "texture,metal texture,water texture,wall texture,gradient texture,paper texture,silver texture,gold texture",
+  "template_chips": "recent,youtube,logo,flyer,islam,instagram,poetry,facebook,quote",
+  "project_update_time": 1613826924625,
+  "announcements": {
+    "id": 5,
+    "title": "iOS Developer",
+    "description": "We're hiring for iOS Developer. Lahore, Pakistan",
+    "image": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/thumb/apple.jpg",
+    "url": "https://www.linkedin.com/posts/adilsoomro_hiring-activity-6774364548766957568-mcRv",
+    "btn_text": "Apply"
+  },
+  "latest_tutorial_id": 17
+}
