@@ -3,6 +3,14 @@
   "videos": [
     {
 
+      "title": "Photo Edit Tips and Tricks",
+      "video_link": "https://youtu.be/CRF_OoSmu1o",
+      "video_id": "CRF_OoSmu1o",
+      "duration": "20:00",
+      "thumb": "https://img.youtube.com/vi/CRF_OoSmu1o/0.jpg"
+    },
+    {
+
       "title": "How to make post in Imagitor",
       "video_link": "https://youtu.be/TUpbYbShJ0U",
       "video_id": "TUpbYbShJ0U",
